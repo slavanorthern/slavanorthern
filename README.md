@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [LinkedIn][LinkedIn] | [Email][Email] | [Telegram][Telegram]
+
+<p align="center">
+  <a href="https://github.com/slavanorthern">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slavanorthern&theme=transparent" />
+  </a>
+  <a href="https://github.com/slavanorthern">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slavanorthern&langs_count=3&card_width=700&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+[LinkedIn]: https://www.linkedin.com/in/vladislav-science
+[Email]: mailto:v.v.ozhiganov@gmail.com
+[Telegram]: https://t.me/slava_vlad
+
 <!--
 **slavanorthern/slavanorthern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
