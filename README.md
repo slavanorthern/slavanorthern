@@ -1,3 +1,7 @@
+### Hello! 👋
+
+Welcome to my GitHub profile.
+<!--
 ### Hi there 👋
 
 - 📫 How to reach me: [LinkedIn][LinkedIn] | [Email][Email] | [Telegram][Telegram]
